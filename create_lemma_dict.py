@@ -36,3 +36,4 @@ if __name__ == "__main__":
 	pp = pprint.PrettyPrinter()
 	print("inverted_index = ", end='')
 	pp.pprint(inverted_index)
+	
